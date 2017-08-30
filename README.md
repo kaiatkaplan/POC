@@ -43,3 +43,7 @@
 	
 	- [ ] Another gem to use
 	
+
+## Detailed Setup Procedure for a Vault Server a SSH client and a MySQL Client
+
+Follow this [Link](SETUP.md) to get to the document.
